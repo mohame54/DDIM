@@ -1,6 +1,6 @@
 
 # This is an Implementation for [Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502) 
-![](C:\Users\HP\OneDrive\Desktop\projects\Diffusion\DDIM-\gifs\test.gif)
+![](https://github.com/mohame54/DDIM-/blob/main/gifs/test.gif)
 
 
 DDIM is one of the denoising diffusion probabilistic models family but the key difference here it doesn't require **a large reverse diffusion  time steps** to produce the samples or images as you can see from above this gif was created with 25 reverse diffusion time steps.
