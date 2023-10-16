@@ -10,6 +10,9 @@ DDIM is one of the denoising diffusion probabilistic models family but the key d
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cKkB6RXqs67SmAlRduYuST02hrcCRzG5?usp=sharing)
 
+**if you want to try the pretrained model this colab is for you**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bP1K73ep6MfF-fZGJA26rSqOlY2YO85F?usp=sharing)
+
 ## Content:
 * An implementation of [Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502) with continuous time. All variables are properly named and the code is densely commented.
 * A pretrained weights for a model trained on [Flowers Dataset from the  university of oxford](https://www.robots.ox.ac.uk/~vgg/data/flowers/) . 
