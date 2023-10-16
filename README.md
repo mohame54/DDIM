@@ -11,6 +11,7 @@ DDIM is one of the denoising diffusion probabilistic models family but the key d
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cKkB6RXqs67SmAlRduYuST02hrcCRzG5?usp=sharing)
 
 **if you want to try the pretrained model this colab is for you**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bP1K73ep6MfF-fZGJA26rSqOlY2YO85F?usp=sharing)
 
 ## Content:
